@@ -1,0 +1,16 @@
+region_id,region_name,zone,market_weight
+1,Andhra Pradesh,South,1.1
+2,Telangana,South,1.3
+3,Karnataka,South,1.5
+4,Tamil Nadu,South,1.4
+5,Kerala,South,0.9
+6,Maharashtra,West,1.8
+7,Gujarat,West,1.3
+8,Rajasthan,North,0.9
+9,Delhi,North,1.7
+10,Uttar Pradesh,North,1.2
+11,West Bengal,East,1.0
+12,Odisha,East,0.7
+13,Madhya Pradesh,Central,0.8
+14,Punjab,North,0.8
+15,Bihar,East,0.6

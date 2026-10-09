@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price,margin_pct
+1,Electronics Item 1,Electronics,48245.71,0.18
+2,Electronics Item 2,Electronics,30821.68,0.18
+3,Electronics Item 3,Electronics,52647.09,0.18
+4,Electronics Item 4,Electronics,44263.14,0.18
+5,Electronics Item 5,Electronics,12897.22,0.18
+6,Electronics Item 6,Electronics,58732.36,0.18
+7,Electronics Item 7,Electronics,47579.26,0.18
+8,Electronics Item 8,Electronics,48875.34,0.18
+9,Furniture Item 1,Furniture,7740.2,0.22
+10,Furniture Item 2,Furniture,19664.28,0.22
+11,Furniture Item 3,Furniture,16719.53,0.22
+12,Furniture Item 4,Furniture,37290.3,0.22
+13,Furniture Item 5,Furniture,26823.01,0.22
+14,Furniture Item 6,Furniture,33442.18,0.22
+15,Furniture Item 7,Furniture,19406.33,0.22
+16,Furniture Item 8,Furniture,11407.83,0.22
+17,Office Supplies Item 1,Office Supplies,1708.3,0.3
+18,Office Supplies Item 2,Office Supplies,285.07,0.3
+19,Office Supplies Item 3,Office Supplies,2500.13,0.3
+20,Office Supplies Item 4,Office Supplies,1931.83,0.3
+21,Office Supplies Item 5,Office Supplies,2298.45,0.3
+22,Office Supplies Item 6,Office Supplies,1128.13,0.3
+23,Office Supplies Item 7,Office Supplies,2915.02,0.3
+24,Office Supplies Item 8,Office Supplies,2690.05,0.3
+25,Clothing Item 1,Clothing,4781.11,0.35
+26,Clothing Item 2,Clothing,1570.51,0.35
+27,Clothing Item 3,Clothing,3066.97,0.35
+28,Clothing Item 4,Clothing,740.92,0.35
+29,Clothing Item 5,Clothing,1348.59,0.35
+30,Clothing Item 6,Clothing,4256.77,0.35
+31,Clothing Item 7,Clothing,4596.19,0.35
+32,Clothing Item 8,Clothing,5821.3,0.35
+33,Home Appliances Item 1,Home Appliances,14100.59,0.2
+34,Home Appliances Item 2,Home Appliances,15484.25,0.2
+35,Home Appliances Item 3,Home Appliances,18556.23,0.2
+36,Home Appliances Item 4,Home Appliances,9873.61,0.2
+37,Home Appliances Item 5,Home Appliances,8027.57,0.2
+38,Home Appliances Item 6,Home Appliances,18746.85,0.2
+39,Home Appliances Item 7,Home Appliances,11034.19,0.2
+40,Home Appliances Item 8,Home Appliances,24764.23,0.2
